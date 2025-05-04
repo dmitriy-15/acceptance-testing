@@ -1,1 +1,1 @@
-# acceptance-testing
+сценарии приемочного тестирования на основе аналитики https://clear-bag-041.notion.site/e0a223307f824d5691f763af4565835b
